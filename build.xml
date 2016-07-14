@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="mango-session-manager" >
+	<property environment="env"/>
+	<property name="businessgroup" value="Platform" />
+	<property name="trans.dep" value="false" />
+	<import file="${env.accio.scripts}\root_build.xml" />
+</project>
